@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LibMng</string>
+    <string-array name="time">
+        <item>None</item>
+        <item>Minutes</item>
+        <item>Hours</item>
+        <item>Days</item>
+    </string-array>
+    <string name="button_search">Search</string>
+    <string name="search_results">Search results.</string>
+    <string name="menu_search">Search...</string>
+    <string name="empty_word_not_saved">Word not saved because it is empty.</string>
+    <string name="no_result">No result.</string>
+    <string name="hint_word">Word...</string>
+</resources>
