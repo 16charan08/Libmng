@@ -1,1 +1,1 @@
-# Libmng is an todo application with alaram and notification by using local sqlite .
+# Libmng is a android todo application with notification by using local sqlite .
